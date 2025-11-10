@@ -144,7 +144,7 @@
 /* Main Button - Fixed at Bottom */
 .main-button {
   position: fixed;
-  bottom: 0;
+  bottom: 20px;
   left: 0;
   right: 0;
   width: 100%;
